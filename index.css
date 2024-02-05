@@ -110,11 +110,12 @@ landing{
 @media (min-width: 1500px){
     .about{
         /* border: 1px solid seagreen; */
-        width: 30%;
+        width: 20%;
         margin-left: 2rem;
         margin-right: auto;
         position: absolute;
-        top: 5rem;
-        left: 2rem;
+        top: 15%;
+        left: 10%;
+        line-height: 2rem;
     } 
 }
